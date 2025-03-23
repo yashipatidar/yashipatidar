@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yashipatidar
 - 👀 I’m interested in WEB DEVELOPMENT.
-- 🌱 I’m currently learning HTML AND CSS.
+- 🌱 I’m currently learning frontend and backend.
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me ...
 
